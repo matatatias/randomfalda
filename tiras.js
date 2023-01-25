@@ -1,0 +1,36 @@
+export const tirasok = {
+   "tiras":[
+      {
+         "tira":"qoY6MhB.jpg",
+         "squares":"4",
+         "point1":"200",
+         "point2":"400",
+         "point3":"600",
+         "point4":"800",
+         "point5":"0",
+         "point6":"0",
+         "text1":"Hola1",
+         "text2":"Hol2",
+         "text3":"hol3",
+         "text4":"hol4",
+         "text5":"hol5",
+         "text6":"hol6"
+      },
+      {
+         "tira":"695Nwnz.jpg",
+         "squares":"3",
+         "point1":"245",
+         "point2":"444",
+         "point3":"800",
+         "point4":"0",
+         "point5":"0",
+         "point6":"0",
+         "text1":"Hola1",
+         "text2":"Hol2",
+         "text3":"hol3",
+         "text4":"hol4",
+         "text5":"hol5",
+         "text6":"hol6"
+      }
+   ]
+}
